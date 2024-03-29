@@ -2,8 +2,8 @@
 Changelog for package gz_math_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2024-03-29)
+------------------
 * Disable SWIG to fix CMake warning
 * Contributors: Addisu Z. Taddese
 
